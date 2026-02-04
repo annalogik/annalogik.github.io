@@ -126,7 +126,7 @@ section {
     position: relative;
     /*background: linear-gradient(135deg, var(--color-bg) 0%, #f0f0eb 100%); */
     overflow: hidden;
-    background-image: url("file:///C:/Users/annap/Downloads/files%20(3)/img.jpg");
+    background-image: url("img.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-color: rgba(255,255,248,0.85);
